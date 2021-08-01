@@ -18,3 +18,15 @@ https://www.w3schools.com/
 
 Semantic UI:
 https://semantic-ui.com/
+
+MongoDB Atlas:
+https://www.mongodb.com/cloud/atlas
+
+Postman:
+https://www.postman.com/
+
+adobeXD:
+https://www.adobe.com/au/products/xd.html
+
+heroku:
+https://dashboard.heroku.com/
