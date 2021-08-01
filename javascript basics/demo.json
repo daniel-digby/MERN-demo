@@ -1,0 +1,9 @@
+{
+    "num": 0,
+    "string": "value",
+    "nestedObject": {
+        "nestedNum": 0,
+        "nestedBool": true
+    },
+    "array": ["val", "val2"]
+}
