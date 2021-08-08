@@ -10,11 +10,12 @@ The password for these recordings is JI!Mzy7AKHbe
 Shared Screen With Speaker View (Video) (312.8 MB)
 https://cloudstor.aarnet.edu.au/plus/s/zJXtzcGDVDy97vS
 
+
 Please do not use this repository as a concrete guide, it's more an example of how some things can be done.
 
 The most important thing is to use what I've helped compile to guide your own research and learning!
 
-Some useful links
+# Useful links
 
 Node best practices (covers things like security):
 https://github.com/goldbergyoni/nodebestpractices
